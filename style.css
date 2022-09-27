@@ -1,0 +1,22 @@
+ *{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+.masthead{
+    background-image: url(IMAGES/home-bg.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+    
+}
+.jumbotron{
+    margin-top: 20%;
+}
+.icon-clr{
+    color: burlywood;
+
+}
+.form-control{
+    margin-top: 18%;
+}
